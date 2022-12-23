@@ -6,16 +6,16 @@
 
 ###### Products & Services
 > + Popularization of **Alimentary Sustainability Metrics** By Communitary Garden Experts
-> + Kgs of Solid Biofertilizer
-> + kgs of Prepared Soil
+> + Tons of Bokashi Moved
+> + Tons of Prepared Soil
 > + Plates of food shared
-> + M2 of Growing land (Vertical & Horizontal)
-> + M3 of Growing space (Mobile Greenhouses)
-> + Web 2 Ecommerse
+> + **M2 of Growing land** (Vertical & Horizontal)
+> + M3 of (Mobile Greenhouses)
+> + Web 2 **Ecommerse & Blog** Sharing best practices around automatization of lands
 > + Token Gov Structure
-> + Pkg of Seeds
-> + Basquet of Veggetables on Soil
-> + Xls With Worked hours,  Wallets to deposit (**All utilities Shared between the worked hours**)
+> + Kgs of Seeds
+> + Basquets of Veggetables on Soil
+> + Worked hours, Wallets to deposit (**All utilities Shared between the worked hours**) On Public XLS
 
 ---
 
@@ -30,4 +30,4 @@
 >>+ Automatization of Watering
 >>+ Pot Workshop
 >>+ Oven & kitchen
->>+ Domo
+>>+ Domo for clases with a soft sunscreen protector
