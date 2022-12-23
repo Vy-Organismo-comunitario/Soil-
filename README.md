@@ -16,6 +16,8 @@
 > + Kgs of Seeds
 > + [Basquets of Veggetables on Soil](https://www.instagram.com/p/Cmg3fVCOWPV/)
 > + Worked hours, Wallets to deposit (**All utilities Shared between the worked hours**) On Public XLS
+> + Soil coin created. 
+> + long distance earns fiat to eth to soil and soil to wallets Smart contract
 
 ---
 
