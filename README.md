@@ -23,8 +23,8 @@
 
 ###### Resourses needed E 19.9 | 1 Eth = 1200 usd |
 
->>+ Rent of the lot in a city dowtown 30*30 m2 1 years 3Eths 
->>+ **Clean Energy Recovery** & light fixtures 2.5 Eths
+>>+ Rent of the lot in A city dowtown 30*30 m2 1 years 7 Eths 700 dls/mo
+>>+ **Clean Energy Recovery** & light fixtures 1.3 Eths
 >>+ Fermentation Greenhouse .4 Eths
 >>+ Bokashi Ingredients Recovery .4 Eths
 >>+ Storage House .6 E
@@ -63,5 +63,7 @@
 + An Example of Sustaintable Productive Public Good Funded by Web3 Community
 + Integration to organic growers into a Web3 Ecosystem Trough Wallet Creation (Ecuation for wallets integration. Like one space each year, one wallet per collaborator)
 + 1 Example of Fisical Space-garden-kitchen-productive model **Safe place to be *in the cities***
-+ 2 Tons of bocashi
-+
++ 3 Tons of Biofertilizer per year
++ +
+
+###### Prop by [Ric](https://twitter.com/richiye)
