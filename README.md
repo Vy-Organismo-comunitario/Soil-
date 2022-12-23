@@ -21,19 +21,24 @@
 
 ---
 
-###### Resourses needed E 13.9
+###### Resourses needed E 19.9
 
->>+ Rent of the Land 1.5 E
->>+ Clean Energy Recovery & light fixtures 2.5 E
+>>+ Rent of the lot in a city dowtown 30*30 m2 1 years 3 E - 
+>>+ **Clean Energy Recovery** & light fixtures 2.5 E
 >>+ Fermentation Greenhouse .4 E 
->>+ Bokashi Ingredients Recovery .3 E
+>>+ Bokashi Ingredients Recovery .4 E
 >>+ Storage House .6 E
->>+ Growing Beds Instruments 1 E 
->>+ Automatization of Watering 1.3 E
+>>+ Growing Crop Beds Instruments Machete 1 E 
+>>+ **Automatization of Watering** 1.3 E
 >>+ Pots and Wearables Workshop .8 E
 >>+ Oven & kitchen Tools .4 E
 >>+ Domo for clases with a soft sunscreen protector .2 E
 >>+ Web 2 and E-commerse Design and Development (6 years) .9 E
+>>+ Audition from Permaculture, Automatization & Transparency of process .3 E
+>>+ Smart Contract for collaborator paycheck 1 E
+>>+ Physical and Digital Promotion .5 E
+>>+ Inaguration party in the lot
+>>+ Any Extra instrument needed voted on Soil Council Inviting the Voters and Experts intereste to help driving a wheel 2E
 
 ###### Distribution from Soil production
 
@@ -45,13 +50,18 @@
 
 
 ###### Distribution from Soil Avatar NFT production
->>+ 15% of NFT income to Marketing materials for Soil.wtf (IRL Stickers, GIFs, Images, Promotion through articles, Twitter Spaces, etc)
+>>+ 15% of NFT income to Marketing materials for Soil.wtf (IRL Tekios, Cartels and Stikers, AudioVisual Material, Promotion through articles, Twitter, Instagram & Others Spaces, etc)
 >>+ 10% of NFT income to on Land Sustainable Food
 >>+ 20% of NFT income to Parent DAO
 >>+ 50% of NFT income to Soil DAO
 >>+ 5% of NFT income to reinvest on Soil Avatars Hold By Soil DAO Treasury
 
 
-
-
-
+###### Outcomes Expected
++ A Rhizomatic extention of the Father Dao Model
++ Clear Example of Transparency Resourses
++ An Example of Sustaintable Productive Public Good Funded by Web3 Community
++ Integration to organic growers into a Web3 Ecosystem Trough Wallet Creation (Ecuation for wallets integration. Like one space each year, one wallet per collaborator)
++ 1 Example of Fisical Space-garden-kitchen-productive model **Safe place to be *in the cities***
++ 2 Tons of bocashi
++
