@@ -19,7 +19,7 @@
 
 ---
 
-###### Resourses needed E9.9
+###### Resourses needed E 13.9
 
 >>+ Rent of the Land 1.5 E
 >>+ Clean Energy Recovery & light fixtures 2.5 E
@@ -31,4 +31,6 @@
 >>+ Pots and Wearables Workshop .8 E
 >>+ Oven & kitchen Tools .4 E
 >>+ Domo for clases with a soft sunscreen protector .2 E
->>+ Web 2 and E-commerse development MKtng .9 E
+>>+ Web 2 and E-commerse Design and Development (6 years) .9 E
+>>+ Marketing materials for Soil.wtf (IRL Stickers, GIFs, Images, Promotion through articles, Twitter Spaces, etc)
+
