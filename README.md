@@ -19,15 +19,16 @@
 
 ---
 
-###### Resourses needed E 4
+###### Resourses needed E9.9
 
->>+ Rent of the Land
->>+ Clean Energy Recovery & light fixtures
->>+ Fermentation Greenhouse
->>+ Bokashi Ingredients Recovery
->>+ Storage
->>+ Growing Beds
->>+ Automatization of Watering
->>+ Pot Workshop
->>+ Oven & kitchen
->>+ Domo for clases with a soft sunscreen protector
+>>+ Rent of the Land 1.5 E
+>>+ Clean Energy Recovery & light fixtures 2.5 E
+>>+ Fermentation Greenhouse .4 E 
+>>+ Bokashi Ingredients Recovery .3 E
+>>+ Storage House .6 E
+>>+ Growing Beds Instruments 1 E 
+>>+ Automatization of Watering 1.3 E
+>>+ Pots and Wearables Workshop .8 E
+>>+ Oven & kitchen Tools .4 E
+>>+ Domo for clases with a soft sunscreen protector .2 E
+>>+ Web 2 and E-commerse development MKtng .9 E
