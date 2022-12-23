@@ -21,12 +21,12 @@
 
 ---
 
-###### Resourses needed E 19.9
+###### Resourses needed E 19.9 | 1 Eth = 1200 usd |
 
->>+ Rent of the lot in a city dowtown 30*30 m2 1 years 3 E - 
->>+ **Clean Energy Recovery** & light fixtures 2.5 E
->>+ Fermentation Greenhouse .4 E 
->>+ Bokashi Ingredients Recovery .4 E
+>>+ Rent of the lot in a city dowtown 30*30 m2 1 years 3Eths 
+>>+ **Clean Energy Recovery** & light fixtures 2.5 Eths
+>>+ Fermentation Greenhouse .4 Eths
+>>+ Bokashi Ingredients Recovery .4 Eths
 >>+ Storage House .6 E
 >>+ Growing Crop Beds Instruments Machete 1 E 
 >>+ **Automatization of Watering** 1.3 E
