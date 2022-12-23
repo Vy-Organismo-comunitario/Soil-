@@ -14,7 +14,7 @@
 > + Web 2 **Ecommerse & Blog** Sharing best practices around automatization of lands
 > + Token Gov Structure
 > + Kgs of Seeds
-> + Basquets of Veggetables on Soil
+> + [Basquets of Veggetables on Soil](https://www.instagram.com/p/Cmg3fVCOWPV/)
 > + Worked hours, Wallets to deposit (**All utilities Shared between the worked hours**) On Public XLS
 
 ---
@@ -32,5 +32,24 @@
 >>+ Oven & kitchen Tools .4 E
 >>+ Domo for clases with a soft sunscreen protector .2 E
 >>+ Web 2 and E-commerse Design and Development (6 years) .9 E
->>+ Marketing materials for Soil.wtf (IRL Stickers, GIFs, Images, Promotion through articles, Twitter Spaces, etc)
+
+###### Distribution from Soil production
+
+>>+ Each Worked Hour generates a Soil Token
+>>+ 20% of production income to Soil DAO Treasury
+>>+ 10% to Sustainable Food delivery
+>>+ 70% of production income to Soil Treasury **To be shared between the worked hours**
+
+
+
+###### Distribution from Soil Avatar NFT production
+>>+ 15% of NFT income to Marketing materials for Soil.wtf (IRL Stickers, GIFs, Images, Promotion through articles, Twitter Spaces, etc)
+>>+ 10% of NFT income to on Land Sustainable Food
+>>+ 20% of NFT income to Parent DAO
+>>+ 50% of NFT income to Soil DAO
+>>+ 5% of NFT income to reinvest on Soil Avatars Hold By Soil DAO Treasury
+
+
+
+
 
