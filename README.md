@@ -1,7 +1,17 @@
-# Soil 
-###### A physical space dedicated to developing alimentary sustainability in cities. It will include a bokashi process, a seed bank, and workshops for educational and non-rural agriculture instruments to promote permaculture in Spanish and English. The project will be funded by a DAO to work as a DAO, allowing for the continual intervention of the project. 
-###### The ultimate goal is to end world hunger by 2035, and already has partners in Mexico working on environmental impact initiatives at multiple levels. [Experienced Friends](https://www.facebook.com/Kuau8), [Neigbohrs](https://www.facebook.com/profile.php?id=100082261474515) & [Institutions](https://www.facebook.com/IESDHS) around. 
-###### The project seeks to install a working model invested by web3 comunity, with an aim to change life conditions around the world.
+# Soil - Green wall - 
+
+Working as an xls guide of expenses and goal makers 
+4 a modular productive and educational model of impact in the alimentary suficiency in the cities.
+Working along with the automatization on the transactions and the transparency given by the blockchain tools and AI lenguage models to produce more sustainable and impactful models as poblic goods.
+
+The project will be funded by a DAO to work as a DAO, allowing for the continual intervention of the project. 
+###### The ultimate goal is to end world hunger by 2035, trouhg exponential growing autoproduction levels trough basic education.
+
+ and already has partners in Mexico working on environmental impact initiatives at multiple levels. 
+
+[Experienced local Friends](https://www.facebook.com/Kuau8) [on diferent spaces](https://www.facebook.com/ParqueAgroecologicoZapopan), some of them [near](https://www.facebook.com/Huertotodos) so near, that you can realize, that they might [dis](https://www.youtube.com/watch?v=N_i0BFeQCcI&ab_channel=GetUp%21Australia)[ap](https://www.youtube.com/watch?v=N_i0BFeQCcI&ab_channel=GetUp%21Australia)[ear](https://www.youtube.com/watch?v=N_i0BFeQCcI&ab_channel=GetUp%21Australia) and [Neigbohrs](https://www.facebook.com/profile.php?id=100082261474515) & [Institutions](https://www.facebook.com/IESDHS) around. 
+###### The project seeks to support on land working spases to develope green soil, fertilizer, and growths, pots, green houses, irrigation systems, calendars, seeds and more designs tinvested by web3 comunity, with an aim to change life conditions around the world promotin the local and global direct market trough social networks.
+
 ![Soil](https://user-images.githubusercontent.com/38388270/209252780-9fb7a61d-787a-4360-843c-c6dd88117621.png)
 
 ###### Products & Services
@@ -21,30 +31,31 @@
 
 ---
 
-###### Resourses needed E 19.9 | 1 Eth = 1200 usd |
+###### Resourses needed
 
->>+ Rent of the lot in A city dowtown 30*30 m2 1 years 7 Eths 700 dls/mo
->>+ **Clean Energy Recovery** & light fixtures 1.3 Eths
->>+ Fermentation Greenhouse .4 Eths
->>+ Bokashi Ingredients Recovery .4 Eths
->>+ Storage House .6 E
->>+ Growing Crop Beds Instruments Machete 1 E 
->>+ **Automatization of Watering** 1.3 E
->>+ Pots and Wearables Workshop .8 E
->>+ Oven & kitchen Tools .4 E
->>+ Domo for clases with a soft sunscreen protector .2 E
->>+ Web 2 and E-commerse Design and Development (6 years) .9 E
->>+ Audition from Permaculture, Automatization & Transparency of process .3 E
->>+ Smart Contract for collaborator paycheck 1 E
->>+ Physical and Digital Promotion .5 E
+>>+ Rent of the lot in A city dowtown 30*30 m2 1 years
+>>+ **Clean Energy Recovery** & light fixtures 
+>>+ Fermentation Greenhouse .
+>>+ Bokashi Ingredients Recovery
+>>+ Storage House 
+>>+ Growing Crop Beds Instruments Machete 
+>>+ **Automatization of Watering** 
+>>+ Pots and Wearables Workshop 
+>>+ Oven & kitchen Tools 
+>>+ Domo for clases with a soft sunscreen protector 
+>>+ Web 2 and E-commerse Design and Development 
+>>+ Audition from Permaculture, Automatization & Transparency of process
+>>+ Smart Contract for collaborator paycheck
+>>+ Physical and Digital Promotion
 >>+ Inaguration party in the lot
->>+ Any Extra instrument needed voted on Soil Council Inviting the Voters and Experts intereste to help driving a wheel 2E
+>>+ Any Extra instrument needed voted on Soil Council Inviting the Voters and Experts intereste to help driving a wheel
 
 ###### Distribution from Soil production
 
 >>+ Each Worked Hour generates a Soil Token
->>+ 20% of production income to Soil DAO Treasury
->>+ 10% to Sustainable Food delivery
+>>+ 15% of production income to Soil Treasury
+>>+ 10% to Sustainable Food Sistem delivery
+>>+ 5% to investors
 >>+ 70% of production income to Soil Treasury **To be shared between the worked hours**
 
 
@@ -58,12 +69,12 @@
 
 
 ###### Outcomes Expected
-+ A Rhizomatic extention of the Father Dao Model
-+ Clear Example of Transparency Resourses
-+ An Example of Sustaintable Productive Public Good Funded by Web3 Community
-+ Integration to organic growers into a Web3 Ecosystem Trough Wallet Creation (Ecuation for wallets integration. Like one space each year, one wallet per collaborator)
-+ 1 Example of Fisical Space-garden-kitchen-productive model **Safe place to be *in the cities***
-+ 3 Tons of Biofertilizer per year
++ A Rhizomatic extention of public productive modules
++ Clear Example of Transparent and Shared use of Resourses
++ Walletization with new growers in the city 
++ A safe place to be *in the cities*
++ x Tons of Biofertilizer and regenerated soil per year
 + +
 
 ###### Prop by [Ric](https://twitter.com/richiye)
+Open to 
